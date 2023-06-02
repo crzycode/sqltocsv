@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Aspose.Cells" Version="23.1.1" />
+    <PackageReference Include="AWSSDK.Core" Version="3.7.105.13" />
+    <PackageReference Include="chilkat-x64" Version="9.5.0.93" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
   </ItemGroup>
 
